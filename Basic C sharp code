@@ -41,7 +41,6 @@ namespace operations
 
 
 
-
 //2)
 using System;
 
@@ -62,8 +61,6 @@ namespace Modulus
         }
     }
 }
-
-
 
 
 
@@ -91,8 +88,6 @@ namespace MyApplication
 
 
 
-
-
 //4)Implicit Casting
 using System;
 
@@ -110,8 +105,6 @@ namespace MyApplication
     }
   }
 }
-
-
 
 
 
